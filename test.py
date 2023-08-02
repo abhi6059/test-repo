@@ -15,4 +15,5 @@ def test_func_v2():
 # COMMAND ----------
 
 def test_func_v1():
+    print(2+2)
     print("Adding function from v1 to test merging in v2")
