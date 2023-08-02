@@ -18,6 +18,7 @@ def test_func_v2():
     print(5+3)
     print(5-2)
     print(5*5)
+    print("Adding this to test new branch creation with changes")
 
 # COMMAND ----------
 
