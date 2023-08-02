@@ -10,13 +10,14 @@ def test_func():
 # COMMAND ----------
 
 def test_func_v2():
-    print(2+5)
+    print(2+4)
     print(3-1)
     print(2*2)
     print(4/2)
     print("Adding another function from v2 to test sync of branch behavior")
     print(5+3)
     print(5-2)
+    print(5*5)
 
 # COMMAND ----------
 
